@@ -1,0 +1,19 @@
+.about p{
+   margin: 2em auto 0 auto;
+   font-size: 1.6rem;
+   line-height: 3rem;
+   font-weight: 550;
+   color: teal;
+   width: 80%;
+}
+@media screen and (max-width: 600px){
+    .about > p{
+        width: 90%;
+    }
+    .about h1{
+        text-align: center;
+    }
+    .line{
+        margin: 1em auto;
+    }
+}

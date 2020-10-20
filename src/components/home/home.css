@@ -1,0 +1,29 @@
+.home{
+    background: url('james-harrison-vpOeXr5wmR4-unsplashC.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 0rem 2.5rem;
+}
+.home > p{
+    width: 33%;
+    margin: 2.5em 0.5em 3.5em auto;
+    text-align: left;
+    color: white;
+    font-weight: 800;
+    font-size: 3rem;
+    line-height: 3rem;
+   
+}
+@media screen and (max-width: 900px){
+    .home{
+        justify-content: center;
+    }
+    .home > p{
+        width: 90%;
+        text-align: center;
+        margin: 3.1em 0 4.1em 0;
+        font-weight: 700;
+
+    }
+}
