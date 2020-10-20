@@ -1,3 +1,9 @@
+This is a assignment of react in which i had to make 4 super simple pages and change the view of web
+on click of the button and i think i have done my assignment pretty well,if you guys want to give me any suggestions
+then you're most welcome
+Also,
+Please give a visit ==>  https://react-website-haseeb.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
